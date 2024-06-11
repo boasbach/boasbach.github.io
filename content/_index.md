@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        In my PhD studies at DIAS, I will be working on using a new joint geophysical-petrological inversion methodology to the Krafla volcanic system in Iceland. I will perform the joint inversion to produce new velocity and temperature models, verifying that the methods work at local scale in volcanic settings.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Kindly reach out to me personally if you would like collaborate or share any ideas on any of my research interests via bernardeyeson [AT] gmail.com 😃
     design:
       columns: '1'
   - block: collection
