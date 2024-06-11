@@ -177,6 +177,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Welcome!
 
 I am an incoming PhD Student at the [Dublin Institute for Advanced Studies](https://dias.ie/). I will be working with [Dr Emma Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/) on the [MOD3LTHERM Project](https://mod3ltherm.ie/). As part of my PhD studies at [DIAS](https://dias.ie/), I will be registered as a PhD Student at [UCD School of Earth Sciences](https://www.ucd.ie/earthsciences/), under the supervision of [Dr Aline Melo](https://people.ucd.ie/aline.melo/). I previously studied at [KNUST](https://knust.edu.gh/), working on machine learning application in seismic facies analysis under the supervision of [Dr Cyril D. Boateng](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/563472dc7396.html).
