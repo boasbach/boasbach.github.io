@@ -58,7 +58,8 @@ education:
     date_start: 2024-09-01
     date_end: 2028-09-01
     summary: |
-      I will be working on Temperature determination beneath volcanoes using geophysical-petrological modelling. Supervised by [Dr Emma Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). 
+      I will be working on Temperature determination beneath volcanoes using geophysical-petrological modelling. 
+      Supervisor: Dr Emma Chambers. 
     #button:
       #text: 'Read Thesis'
       #url: 'https://example.com'
@@ -68,7 +69,7 @@ education:
     date_end: 2020-12-31
     summary: |
       Thesis: Multi-attribute seismic facies analysis with machine learning for reservoir characterization. 
-      Supervised by [Dr Cyril D. Boateng](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/563472dc7396.html).   
+      Supervisor: Dr Cyril D. Boateng.   
   - area: BSc Physics
     institution: Kwame Nkrumah University of Science and Technology
     date_start: 2016-09-09
