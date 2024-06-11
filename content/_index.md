@@ -37,7 +37,7 @@ sections:
       text: |-
         In my PhD studies at DIAS, I will be working on applying a new joint geophysical-petrological inversion methodology to the Krafla volcanic system in Iceland. I will perform the joint inversion to produce new velocity and temperature models, verifying that the methods work at local scale in volcanic settings.
 
-        Kindly reach out to me personally if you would like collaborate or share any ideas on any of my research interests via bernardeyeson [AT] gmail.com 😃
+        Kindly reach out to me personally if you would like collaborate or share any ideas on any of my research interests via bernardeyeson [AT] gmail.com
     design:
       columns: '1'
   - block: collection
