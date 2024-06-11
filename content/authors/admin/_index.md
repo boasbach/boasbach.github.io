@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Bernard Asare Owusu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Bernard Asare Owusu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bernard Asare 
+last_name: Owusu
 
 # Status emoji
 status:
@@ -20,92 +20,83 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Incoming PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Dublin Institute for Advanced Studies
+    url: https://dias.ie/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:bernardeyeson@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/benbach9/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/_b.er_nard/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/boasbach/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/boasare/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: http://orcid.org/0000-0002-8150-5961/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Joint Inversion
+  - Multi-Physics Data Interpretation
+  - Geothermal Energy
+  - Machine Learning Applications in Seismology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Seismology
+    institution: University College Dublin
+    date_start: 2024-09-01
+    date_end: 2028-09-01
+    summary: |
+      I will be working on Temperature determination beneath volcanoes using geophysical-petrological modelling. Supervised by [Dr Emma Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). 
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
+  - area: MPhil Geophysics
+    institution: Kwame Nkrumah University of Science and Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      Thesis: Multi-attribute seismic facies analysis with machine learning for reservoir characterization. 
+      Supervised by [Dr Cyril D. Boateng](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/563472dc7396.html).   
+  - area: BSc Physics
+    institution: Kwame Nkrumah University of Science and Technology
+    date_start: 2016-09-09
+    date_end: 2020-08-01
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Geophysicist (Intern)
+    company_name: Ghana National Petroleum Corporation
+    company_url: https://www.gnpcghana.com/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-09-05
+    date_end: 2023-10-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Picked faults in 3D seismic volumes using manual fault tracking and ML-assisted fault prediction.
+      - Identified channels, fairways, and deepwater fans in seismic data.
+      - Generated structural and attribute maps to identify leads.
+  - position: Graduate Research and Teaching Assistant
+    company_name: Kwame Nkrumah University of Science and Technology
+    company_url: https://www.knust.edu.gh/
     company_logo: ''
-    date_start: 2016-01-01
+    date_start: 2023-01-09
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed a seismic facies analysis workflow for lithology prediction using multi-attribute analysis, unsupervised machine learning, and spectral decomposition.
+      - Conducted research on the identification of channels using unsupervised waveform clustering and spectral decomposition.
+      - Supervised undergraduate students in the Geophysics Laboratory.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -144,10 +135,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Akan (Twi)
+    percent: 100
+  - name: French
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +174,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an incoming PhD Student at the [Dublin Institute for Advanced Studies](https://dias.ie/). I will be working with [Dr Emma Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/) on the [MOD3LTHERM Project](https://mod3ltherm.ie/). As part of my PhD studies at [DIAS](https://dias.ie/), I will be registered as a PhD Student at [UCD School of Earth Sciences](https://www.ucd.ie/earthsciences/), under the supervision of [Dr Aline Melo](https://people.ucd.ie/aline.melo/)
